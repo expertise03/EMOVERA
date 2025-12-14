@@ -54,12 +54,9 @@ streamlit run app.py
 ```
 
 ```
-
-### App Running Port
-
-```bash
+App Running Port
 http://localhost:8501
-```
+
 
 ### Basic Workflow
 
